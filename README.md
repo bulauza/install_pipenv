@@ -1,0 +1,2 @@
+# install_pipenv
+pipenvをインストールするときのコマンドとか設定とか
